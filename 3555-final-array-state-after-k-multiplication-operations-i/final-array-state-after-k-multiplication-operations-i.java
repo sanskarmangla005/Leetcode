@@ -12,3 +12,7 @@ class Solution {
         return nums;
     }
 }
+
+//k bar min elemnt find kr
+//uska index nikal, then multiplier se mulitply kr
+//or end me final array returrn kr de
